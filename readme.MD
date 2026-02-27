@@ -12,8 +12,8 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 - `variable/immutable.dart`
 
 #### Hasil
-![Mutable Variable](screenshoot/variable_mutable.png)  
-![Immutable Variable](screenshoot/variable_immutable.png)
+![Mutable Variable](screenshoot/mutable.png)  
+![Immutable Variable](screenshoot/immutable.png)
 
 ---
 
