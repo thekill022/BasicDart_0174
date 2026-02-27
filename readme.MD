@@ -13,6 +13,7 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 
 #### Hasil
 ![Mutable Variable](screenshoot/mutable.png)  
+
 ![Immutable Variable](screenshoot/immutable.png)
 
 ---
@@ -32,9 +33,12 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 - `tipe_data/map.dart`
 
 #### Hasil
-![Tipe Data Dasar](screenshoot/tipe_data_dasar.png)  
+![Tipe Data Dasar](screenshoot/tipe_data_dasar.png)
+
 ![List](screenshoot/list.png)  
+
 ![Set](screenshoot/set.png)  
+
 ![Map](screenshoot/map.png)
 
 ---
@@ -52,7 +56,9 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 
 #### Hasil
 ![Aritmatika](screenshoot/aritmatika.png)  
+
 ![Perbandingan](screenshoot/perbandingan.png)  
+
 ![Penugasan](screenshoot/penugasan.png)
 
 ---
@@ -70,7 +76,9 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 
 #### Hasil
 ![Percabangan](screenshoot/percabangan.png)  
+
 ![Looping](screenshoot/looping.png)  
+
 ![Ternary](screenshoot/ternary.png)
 
 ---
@@ -85,6 +93,7 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 
 #### Hasil
 ![Function tanpa return](screenshoot/function_tanpa_return.png)  
+
 ![Function dengan return](screenshoot/function_dengan_return.png)
 
 ---
@@ -107,10 +116,15 @@ Setiap topik memiliki sub‑judul dan bagian dengan hasil eksekusi (ditampilkan 
 
 #### Hasil
 ![Nullable](screenshoot/nullable.png)  
+
 ![NonNullable](screenshoot/non_nullable.png)  
+
 ![Late Variable](screenshoot/late_variable.png)  
+
 ![Null Check](screenshoot/null_check.png)  
+
 ![Null Assertion](screenshoot/null_assertion.png)  
+
 ![Default Value](screenshoot/default_value.png)
 
 ---
